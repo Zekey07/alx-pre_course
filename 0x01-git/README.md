@@ -1,1 +1,1 @@
-i enjoy doing hard things.
+my second readme updated
